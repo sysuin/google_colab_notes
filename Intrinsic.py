@@ -1,4 +1,4 @@
-#git clone
+#!git clone
 
 #%cd ..
 #%cd ./root
@@ -8,6 +8,10 @@
 
 #from google.colab import files
 #up = files.upload()
+
+#%cd ..
+#%cd ..
+#%cd ./content
 
 #!chmod 600 /root/.kaggle/kaggle.json
 #!kaggle competitions download -c web-traffic-time-series-forecasting
