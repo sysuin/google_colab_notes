@@ -19,3 +19,6 @@
 #!unzip household_power_consumption.zip
 #!7z e train.json.7z
 #!ls
+
+%%file example.py
+# %%file is an Ipython magic function that saves the code cell as a file
