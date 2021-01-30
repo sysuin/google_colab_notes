@@ -1,0 +1,9 @@
+#Run a Local Server
+#you can serve any folder in your computer with Serve
+#First, navigate using the command line into the folder you'd like to serve.
+#Then
+npx i -g serve
+serve
+
+#or if you'd like to test Serve with downloading it
+npx serve
